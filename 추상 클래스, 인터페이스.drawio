@@ -1,37 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T06:55:51.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="-maKipyP6RQISiLfHhmC" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-27T07:02:54.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="BgGvUP1joqsia8jTVSEO" version="20.3.6" type="github">
   <diagram id="yzttvGL6DYm58Yo7VKV4" name="페이지-1">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sEVOvVoNb_-aRAVPJVFR-3" value="Animal" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="134" y="80" width="160" height="140" as="geometry" />
+          <mxGeometry x="224" y="80" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="sEVOvVoNb_-aRAVPJVFR-6" value="void move() {abstract}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sEVOvVoNb_-aRAVPJVFR-3">
           <mxGeometry y="30" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sEVOvVoNb_-aRAVPJVFR-4" value="Larva" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="254" y="280" width="160" height="140" as="geometry" />
+          <mxGeometry x="344" y="280" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="sEVOvVoNb_-aRAVPJVFR-11" value="void move()&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BexitX%3D0.5%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2280%22%20y%3D%22240%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22200%22%20y%3D%22180%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sEVOvVoNb_-aRAVPJVFR-4">
           <mxGeometry x="-4" y="30" width="94" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sEVOvVoNb_-aRAVPJVFR-5" value="Eagle" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="14" y="280" width="160" height="140" as="geometry" />
+          <mxGeometry x="104" y="280" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="sEVOvVoNb_-aRAVPJVFR-10" value="void move();&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BexitX%3D0.5%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2280%22%20y%3D%22240%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22200%22%20y%3D%22180%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sEVOvVoNb_-aRAVPJVFR-5">
           <mxGeometry x="-4" y="30" width="94" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sEVOvVoNb_-aRAVPJVFR-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sEVOvVoNb_-aRAVPJVFR-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="164" y="270" as="sourcePoint" />
-            <mxPoint x="214" y="220" as="targetPoint" />
+            <mxPoint x="254" y="270" as="sourcePoint" />
+            <mxPoint x="304" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sEVOvVoNb_-aRAVPJVFR-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sEVOvVoNb_-aRAVPJVFR-4" target="sEVOvVoNb_-aRAVPJVFR-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="104" y="290" as="sourcePoint" />
-            <mxPoint x="224" y="230" as="targetPoint" />
+            <mxPoint x="194" y="290" as="sourcePoint" />
+            <mxPoint x="314" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEVOvVoNb_-aRAVPJVFR-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="440" as="sourcePoint" />
+            <mxPoint x="560" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEVOvVoNb_-aRAVPJVFR-14" value="Fall" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="585" y="80" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sEVOvVoNb_-aRAVPJVFR-15" value="void fall(Flyable flyingObject);" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sEVOvVoNb_-aRAVPJVFR-14">
+          <mxGeometry y="30" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sEVOvVoNb_-aRAVPJVFR-21" value="Eagle" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="750" y="280" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sEVOvVoNb_-aRAVPJVFR-22" value="void move();&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BexitX%3D0.5%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2280%22%20y%3D%22240%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22200%22%20y%3D%22180%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sEVOvVoNb_-aRAVPJVFR-21">
+          <mxGeometry x="-4" y="30" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sEVOvVoNb_-aRAVPJVFR-26" value="void fly();&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BexitX%3D0.5%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2280%22%20y%3D%22240%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22200%22%20y%3D%22180%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sEVOvVoNb_-aRAVPJVFR-21">
+          <mxGeometry x="-10" y="55" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sEVOvVoNb_-aRAVPJVFR-23" value="Mosquito" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="960" y="280" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sEVOvVoNb_-aRAVPJVFR-24" value="void move()&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BexitX%3D0.5%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2280%22%20y%3D%22240%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22200%22%20y%3D%22180%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sEVOvVoNb_-aRAVPJVFR-23">
+          <mxGeometry x="-4" y="30" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sEVOvVoNb_-aRAVPJVFR-27" value="void fly();&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BexitX%3D0.5%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2280%22%20y%3D%22240%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22200%22%20y%3D%22180%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sEVOvVoNb_-aRAVPJVFR-23">
+          <mxGeometry x="-10" y="55" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sEVOvVoNb_-aRAVPJVFR-28" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;br&gt;Flyable&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="800" y="228" width="65" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="sEVOvVoNb_-aRAVPJVFR-29" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" target="sEVOvVoNb_-aRAVPJVFR-28" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEVOvVoNb_-aRAVPJVFR-30" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;br&gt;Flyable&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1001" y="228" width="69" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="sEVOvVoNb_-aRAVPJVFR-31" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" parent="1" target="sEVOvVoNb_-aRAVPJVFR-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
